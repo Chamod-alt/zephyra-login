@@ -1,4 +1,4 @@
-vedio link https://studio.youtube.com/video/WlvC-Uv4G_g/edit
+vedio link https://studio.youtube.com/video/LHoZzPXtblU/edit
 Initialize React project with create-react-app boilerplate
 
 Add basic login page layout with form inputs
