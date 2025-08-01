@@ -9,6 +9,7 @@ const Welcome = () => {
     <div style={{ textAlign: "center", paddingTop: "50px" }}>
       <h1>Welcome, {name}!</h1>
       <p>You have successfully logged in to test.</p>
+      <p>You have successfully logged main.</p>
     </div>
   );
 };
