@@ -8,10 +8,11 @@ const Welcome = () => {
   return (
     <div style={{ textAlign: "center", paddingTop: "50px" }}>
 
-     <p> welcome to you come</p>
-     <h1>Welcome, {name}!</h1>
-      <p>You have successfully logged in to test.</p>
+    <p> here therw</p>
 
+   <p>the th good </p>
+
+<h1> are </h1>
 {/*}
       <h1>Welcome, {name}!</h1>
       <p>You have successfully logged in to test.</p>
