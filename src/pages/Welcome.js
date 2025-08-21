@@ -7,9 +7,8 @@ const Welcome = () => {
 
   return (
     <div style={{ textAlign: "center", paddingTop: "50px" }}>
-      <h1>Welcome, {name}!</h1>
-      <p>You have successfully logged in to test.</p>
-       <p>You have successfully logg to the test not main this .</p>
+     <p> welcome to you come</p>
+     <h1>here this ie </h1>
     </div>
   );
 };
