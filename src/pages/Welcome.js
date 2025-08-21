@@ -10,6 +10,8 @@ const Welcome = () => {
 
      <p> welcome to you come</p>
      <h1>here this ie </h1>
+     <h1>here this ie </h1>
+     <h1>here this ie </h1>
 
 {/*}
       <h1>Welcome, {name}!</h1>
